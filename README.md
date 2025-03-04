@@ -1,2 +1,2 @@
 # ml_projects
-This repo is meant for project
+This repo is meant for projects
